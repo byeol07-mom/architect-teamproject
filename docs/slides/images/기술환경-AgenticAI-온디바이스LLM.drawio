@@ -1,0 +1,98 @@
+<mxfile host="app.diagrams.net" type="device">
+  <diagram id="combined" name="Agentic AI + 온디바이스 LLM">
+    <mxGraphModel dx="1000" dy="600" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="940" pageHeight="375" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <mxCell id="t" value="Agentic AI + 온디바이스 LLM — 단말 안에서 자율 협상" style="text;html=1;align=center;verticalAlign=middle;fontSize=26;fontStyle=1;fontColor=#2E3B4E;" vertex="1" parent="1">
+          <mxGeometry x="70" y="22" width="800" height="36" as="geometry" />
+        </mxCell>
+
+        <mxCell id="ba" value="" style="rounded=1;arcSize=8;html=1;fillColor=#F4F6F9;strokeColor=#D6DBE1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="30" y="92" width="230" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="gear" value="" style="ellipse;html=1;fillColor=#3A6096;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="103" y="116" width="84" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="hub" value="" style="ellipse;html=1;fillColor=#F4F6F9;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="132" y="145" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="la" value="Agentic AI" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;fontColor=#2E3B4E;" vertex="1" parent="1">
+          <mxGeometry x="30" y="220" width="230" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="sa" value="스스로 판단하고 실행" style="text;html=1;align=center;verticalAlign=middle;fontSize=16;fontColor=#78828E;" vertex="1" parent="1">
+          <mxGeometry x="30" y="253" width="230" height="28" as="geometry" />
+        </mxCell>
+
+        <mxCell id="plus" value="+" style="text;html=1;align=center;verticalAlign=middle;fontSize=36;fontStyle=1;fontColor=#9AA5B1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="133" width="50" height="46" as="geometry" />
+        </mxCell>
+
+        <mxCell id="bb" value="" style="rounded=1;arcSize=8;html=1;fillColor=#F4F6F9;strokeColor=#D6DBE1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="92" width="230" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="ph" value="" style="rounded=1;arcSize=14;html=1;fillColor=#FFFFFF;strokeColor=#2E3B4E;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="378" y="112" width="74" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="spk" value="" style="line;strokeColor=#2E3B4E;strokeWidth=3;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="30" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="chip" value="LLM" style="rounded=1;arcSize=14;html=1;fillColor=#3A6096;strokeColor=none;fontColor=#FFFFFF;fontSize=15;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="391" y="142" width="48" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="lb" value="온디바이스 LLM" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;fontColor=#2E3B4E;" vertex="1" parent="1">
+          <mxGeometry x="300" y="220" width="230" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="sb" value="기기 안에서 추론" style="text;html=1;align=center;verticalAlign=middle;fontSize=16;fontColor=#78828E;" vertex="1" parent="1">
+          <mxGeometry x="300" y="253" width="230" height="28" as="geometry" />
+        </mxCell>
+
+        <mxCell id="ar" style="edgeStyle=none;html=1;strokeColor=#9AA5B1;strokeWidth=4;endArrow=block;endFill=1;endSize=5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="158" as="sourcePoint" />
+            <mxPoint x="608" y="158" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+
+        <mxCell id="bc" value="" style="rounded=1;arcSize=8;html=1;fillColor=#FFFFFF;strokeColor=#6C93C9;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="620" y="92" width="290" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="p1" value="" style="rounded=1;arcSize=14;html=1;fillColor=#EBF1F9;strokeColor=#3A6096;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="676" y="116" width="54" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="s1" value="" style="line;strokeColor=#3A6096;strokeWidth=3;html=1;" vertex="1" parent="1">
+          <mxGeometry x="688" y="124" width="30" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="c1" value="" style="rounded=1;arcSize=20;html=1;fillColor=#3A6096;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="686" y="146" width="34" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="p2" value="" style="rounded=1;arcSize=14;html=1;fillColor=#EBF1F9;strokeColor=#3A6096;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="800" y="116" width="54" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="s2" value="" style="line;strokeColor=#3A6096;strokeWidth=3;html=1;" vertex="1" parent="1">
+          <mxGeometry x="812" y="124" width="30" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="c2" value="" style="rounded=1;arcSize=20;html=1;fillColor=#3A6096;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="810" y="146" width="34" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="dbl" style="edgeStyle=none;html=1;strokeColor=#3A6096;strokeWidth=4;startArrow=block;startFill=1;startSize=5;endArrow=block;endFill=1;endSize=5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="736" y="158" as="sourcePoint" />
+            <mxPoint x="794" y="158" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lc" value="단말 내 자율 협상" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;fontColor=#3A6096;" vertex="1" parent="1">
+          <mxGeometry x="620" y="220" width="290" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="sc" value="데이터는 밖으로 나가지 않음" style="text;html=1;align=center;verticalAlign=middle;fontSize=16;fontColor=#78828E;" vertex="1" parent="1">
+          <mxGeometry x="620" y="253" width="290" height="28" as="geometry" />
+        </mxCell>
+
+        <mxCell id="cap" value="두 기술이 함께 성숙하면서, 협상 추론을 기기 안에서 처리할 수 있게 됨" style="text;html=1;align=center;verticalAlign=middle;fontSize=18;fontColor=#78828E;" vertex="1" parent="1">
+          <mxGeometry x="70" y="330" width="800" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
