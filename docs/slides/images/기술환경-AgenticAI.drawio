@@ -1,0 +1,60 @@
+<mxfile host="app.diagrams.net" type="device">
+  <diagram id="agenticai" name="Agentic AI">
+    <mxGraphModel dx="800" dy="600" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="780" pageHeight="430" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <mxCell id="t" value="Agentic AI — 답변에서 자율 행동으로" style="text;html=1;align=center;verticalAlign=middle;fontSize=26;fontStyle=1;fontColor=#2E3B4E;" vertex="1" parent="1">
+          <mxGeometry x="90" y="26" width="600" height="36" as="geometry" />
+        </mxCell>
+
+        <mxCell id="pl" value="" style="rounded=1;arcSize=8;html=1;fillColor=#F4F6F9;strokeColor=#D6DBE1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="125" width="260" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="bub" value="" style="rounded=1;arcSize=14;html=1;fillColor=#FFFFFF;strokeColor=#9AA5B1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="98" y="151" width="144" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="bl1" value="" style="line;strokeColor=#9AA5B1;strokeWidth=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="124" y="167" width="92" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="bl2" value="" style="line;strokeColor=#9AA5B1;strokeWidth=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="124" y="187" width="92" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="bl3" value="" style="line;strokeColor=#9AA5B1;strokeWidth=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="124" y="207" width="56" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="tail" value="" style="triangle;direction=south;html=1;fillColor=#FFFFFF;strokeColor=#9AA5B1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="148" y="221" width="32" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ll" value="묻고 답한다" style="text;html=1;align=center;verticalAlign=middle;fontSize=24;fontStyle=1;fontColor=#78828E;" vertex="1" parent="1">
+          <mxGeometry x="40" y="276" width="260" height="32" as="geometry" />
+        </mxCell>
+
+        <mxCell id="ar" style="edgeStyle=none;html=1;strokeColor=#9AA5B1;strokeWidth=4;endArrow=block;endFill=1;endSize=5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="225" as="sourcePoint" />
+            <mxPoint x="395" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+
+        <mxCell id="pr" value="" style="rounded=1;arcSize=8;html=1;fillColor=#EBF1F9;strokeColor=#6C93C9;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="125" width="260" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gear" value="" style="ellipse;html=1;fillColor=#3A6096;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="524" y="151" width="92" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="hub" value="" style="ellipse;html=1;fillColor=#EBF1F9;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="556" y="183" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="rl" value="스스로 실행한다" style="text;html=1;align=center;verticalAlign=middle;fontSize=24;fontStyle=1;fontColor=#3A6096;" vertex="1" parent="1">
+          <mxGeometry x="440" y="276" width="260" height="32" as="geometry" />
+        </mxCell>
+
+        <mxCell id="cap" value="AI가 답을 주는 데서 그치지 않고, 목표를 받아 스스로 일을 처리" style="text;html=1;align=center;verticalAlign=middle;fontSize=19;fontColor=#78828E;" vertex="1" parent="1">
+          <mxGeometry x="40" y="376" width="700" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

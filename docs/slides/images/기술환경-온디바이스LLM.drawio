@@ -1,0 +1,80 @@
+<mxfile host="app.diagrams.net" type="device">
+  <diagram id="ondevicellm" name="온디바이스 LLM">
+    <mxGraphModel dx="800" dy="600" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="780" pageHeight="430" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <mxCell id="t" value="온디바이스 LLM — 기기 안에서 추론" style="text;html=1;align=center;verticalAlign=middle;fontSize=26;fontStyle=1;fontColor=#2E3B4E;" vertex="1" parent="1">
+          <mxGeometry x="90" y="26" width="600" height="36" as="geometry" />
+        </mxCell>
+
+        <mxCell id="ph" value="" style="rounded=1;arcSize=16;html=1;fillColor=#F4F6F9;strokeColor=#2E3B4E;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="60" y="110" width="220" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="spk" value="" style="line;strokeColor=#2E3B4E;strokeWidth=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="144" y="124" width="52" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="chip" value="LLM" style="rounded=1;arcSize=10;html=1;fillColor=#3A6096;strokeColor=none;fontColor=#FFFFFF;fontSize=24;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="106" y="182" width="128" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pin1" value="" style="line;strokeColor=#2E3B4E;strokeWidth=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="92" y="194" width="14" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="pin2" value="" style="line;strokeColor=#2E3B4E;strokeWidth=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="92" y="216" width="14" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="pin3" value="" style="line;strokeColor=#2E3B4E;strokeWidth=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="92" y="238" width="14" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="pin4" value="" style="line;strokeColor=#2E3B4E;strokeWidth=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="194" width="14" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="pin5" value="" style="line;strokeColor=#2E3B4E;strokeWidth=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="216" width="14" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="pin6" value="" style="line;strokeColor=#2E3B4E;strokeWidth=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="238" width="14" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="inf" value="추론·협상" style="text;html=1;align=center;verticalAlign=middle;fontSize=19;fontColor=#78828E;" vertex="1" parent="1">
+          <mxGeometry x="60" y="290" width="220" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="lin" value="기기 내부" style="text;html=1;align=center;verticalAlign=middle;fontSize=24;fontStyle=1;fontColor=#2E3B4E;" vertex="1" parent="1">
+          <mxGeometry x="60" y="368" width="220" height="32" as="geometry" />
+        </mxCell>
+
+        <mxCell id="blk" style="edgeStyle=none;html=1;dashed=1;dashPattern=12 9;strokeColor=#9AA5B1;strokeWidth=4;endArrow=block;endFill=1;endSize=4;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="235" as="sourcePoint" />
+            <mxPoint x="470" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x1" value="" style="line;direction=north;strokeColor=#C0392B;strokeWidth=6;html=1;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="383" y="211" width="8" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="x2" value="" style="line;direction=north;strokeColor=#C0392B;strokeWidth=6;html=1;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="383" y="211" width="8" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="nx" value="외부 전송 없음" style="text;html=1;align=center;verticalAlign=middle;fontSize=19;fontColor=#C0392B;" vertex="1" parent="1">
+          <mxGeometry x="307" y="277" width="160" height="28" as="geometry" />
+        </mxCell>
+
+        <mxCell id="srv" value="" style="rounded=1;arcSize=8;html=1;fillColor=#F0F2F5;strokeColor=#9AA5B1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="535" y="160" width="130" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="u1" value="" style="rounded=1;arcSize=20;html=1;fillColor=#D6DBE1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="549" y="182" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2" value="" style="rounded=1;arcSize=20;html=1;fillColor=#D6DBE1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="549" y="226" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u3" value="" style="rounded=1;arcSize=20;html=1;fillColor=#D6DBE1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="549" y="270" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rin" value="외부 서버" style="text;html=1;align=center;verticalAlign=middle;fontSize=24;fontStyle=1;fontColor=#9AA5B1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="368" width="220" height="32" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

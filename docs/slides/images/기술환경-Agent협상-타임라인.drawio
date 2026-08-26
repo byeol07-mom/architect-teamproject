@@ -1,0 +1,48 @@
+<mxfile host="app.diagrams.net" type="device">
+  <diagram id="timeline" name="Agent 협상 타임라인">
+    <mxGraphModel dx="1600" dy="700" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="335" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <mxCell id="d1" value="2025.4" style="text;html=1;align=center;verticalAlign=middle;fontSize=30;fontStyle=1;fontColor=#9AA5B1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="58" width="400" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="c1" value="&lt;b style=&quot;font-size:30px;&quot;&gt;A2A 등장&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size:22px;color:#78828E;&quot;&gt;150+ 조직&lt;/span&gt;" style="rounded=1;arcSize=8;html=1;whiteSpace=wrap;fillColor=#F4F6F9;strokeColor=#D6DBE1;strokeWidth=2;fontColor=#2E3B4E;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="50" y="115" width="400" height="180" as="geometry" />
+        </mxCell>
+
+        <mxCell id="d2" value="2026.4" style="text;html=1;align=center;verticalAlign=middle;fontSize=30;fontStyle=1;fontColor=#9AA5B1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="58" width="400" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="c2" value="&lt;b style=&quot;font-size:30px;&quot;&gt;A2CN 등장&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size:22px;color:#78828E;&quot;&gt;상거래 한정&lt;/span&gt;" style="rounded=1;arcSize=8;html=1;whiteSpace=wrap;fillColor=#F4F6F9;strokeColor=#D6DBE1;strokeWidth=2;fontColor=#2E3B4E;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="600" y="115" width="400" height="180" as="geometry" />
+        </mxCell>
+
+        <mxCell id="d3" value="지금" style="text;html=1;align=center;verticalAlign=middle;fontSize=30;fontStyle=1;fontColor=#2E3B4E;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="58" width="400" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="c3" value="&lt;b style=&quot;font-size:30px;color:#3A6096;&quot;&gt;개인 간 협상&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b style=&quot;font-size:40px;color:#6C93C9;&quot;&gt;????&lt;/b&gt;" style="rounded=1;arcSize=8;html=1;whiteSpace=wrap;dashed=1;dashPattern=8 6;fillColor=#FFFFFF;strokeColor=#6C93C9;strokeWidth=3;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="115" width="400" height="180" as="geometry" />
+        </mxCell>
+
+        <mxCell id="a1" style="edgeStyle=none;html=1;strokeColor=#9AA5B1;strokeWidth=4;endArrow=block;endFill=1;endSize=5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="462" y="205" as="sourcePoint" />
+            <mxPoint x="588" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n1" value="1년 만" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontColor=#78828E;" vertex="1" parent="1">
+          <mxGeometry x="465" y="238" width="120" height="30" as="geometry" />
+        </mxCell>
+
+        <mxCell id="a2" style="edgeStyle=none;html=1;strokeColor=#9AA5B1;strokeWidth=4;endArrow=block;endFill=1;endSize=5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1012" y="205" as="sourcePoint" />
+            <mxPoint x="1138" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
